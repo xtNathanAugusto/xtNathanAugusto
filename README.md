@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/fa/6a/e8/fa6ae896901751d3e42118884f44e6f4.jpg" width="100%" alt="Header"/>
+  <img 
+    src="https://i.pinimg.com/1200x/fa/6a/e8/fa6ae896901751d3e42118884f44e6f4.jpg" 
+    width="100%" 
+    height="180px"
+    style="object-fit: cover; object-position: center;"
+    alt="Header"
+  />
 </div>
 
 <div align="center">
@@ -42,21 +48,20 @@ Convido você a acompanhar o desenvolvimento deste universo através das minhas 
 
 ## Stack Tecnológica
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</div>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="45" height="45" alt="jQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
 ---
 
 ## Contato profissional
@@ -64,8 +69,9 @@ Convido você a acompanhar o desenvolvimento deste universo através das minhas 
 Estou aberto a colaborações, oportunidades e trocas criativas. Vamos construir algo significativo.
 
 <div align="center">
-  <img src="https://media.tenor.com/tKqmbzqNwcgAAAAM/pinkpantheress-pinkpantheress-gif.gif" width="48" alt="Divider"/>
-  <img src="https://media4.giphy.com/media/ohkR02xhHLUNmlzO5Q/giphy.gif" width="48" alt="Divider"/>
+  <img src="https://media.tenor.com/tKqmbzqNwcgAAAAM/pinkpantheress-pinkpantheress-gif.gif" width="200" alt="Divider"/>
+  <img src="https://i.pinimg.com/originals/7a/bd/75/7abd75011516e0a7188e6a477d7e7dc3.gif" width="350" alt="Divider"/>
+  <img src="https://media4.giphy.com/media/ohkR02xhHLUNmlzO5Q/giphy.gif" width="270" alt="Divider"/>
 </div>
 
 <p align="center">
