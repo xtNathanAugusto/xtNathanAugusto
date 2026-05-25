@@ -31,7 +31,7 @@
 
 Sou natural de Garça, interior de São Paulo, e atualmente curso **Análise e Desenvolvimento de Sistemas** na **FATEC Garça**. Minha trajetória tecnológica teve início na **ETEC Astor de Marcos Carvalho**, onde concluí o Ensino Médio integrado ao Técnico em Informática.
 
-Para além do universo algorítmico, cultivo uma profunda relação com as artes e a espiritualidade. Atuo como **Escritor**, **Artista** e **Game Designer** em projetos autorais, além de congregar na Igreja [OBPC Duartina](https://www.youtube.com/@pastorlourisvaldooliveiras6034).
+Para além do universo algorítmico, cultivo uma profunda relação com as artes e a espiritualidade. Atuo como **Escritor**, **Artista** e **Game Designer** em projetos autorais.
 
 No campo do **Design Gráfico**, acumulo experiência profissional como jovem aprendiz em uma gráfica em Duartina (6 meses) e 6 anos de trabalho voluntário dedicado à criação de materiais visuais para contextos religiosos e comunitários.
 
