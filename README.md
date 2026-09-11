@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://i.pinimg.com/1200x/fa/6a/e8/fa6ae896901751d3e42118884f44e6f4.jpg"
+    src="https://windowscustomization.com/wp-content/uploads/2018/12/Cyberpunk-2077-1.gif"
     alt="Header"
     width="100%"
     style="height: 180px; width: 100%; object-fit: cover;"
@@ -8,13 +8,13 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/DwUvzOBtTEUAAAAM/speed-ishowspeed.gif" width="120" height="120" style="border-radius: 50%;" alt="Profile Icon"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUycnZubGlyMWswbGZscXl2ZjQ5bWo3aWt5a3NjYmx3NWR6c3NkdWM1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DpBISBXeaCXDW2QGBN/200w.gif" width="120" height="120" style="border-radius: 50%;" alt="Profile Icon"/>
 </div>
 
 <br/>
 
 <h1 align="center">Nathan Augusto</h1>
-<h3 align="center">Analista e Desenvolvedor de Sistemas</h3>
+<h3 align="center">Assistente de Dev</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@XT_INDOMINUS" target="_blank">
