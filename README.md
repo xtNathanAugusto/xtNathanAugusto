@@ -14,7 +14,7 @@
 <br/>
 
 <h1 align="center">Nathan Augusto</h1>
-<h3 align="center">Assistente de Dev</h3>
+<h3 align="center">Dev Junior FullStack</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@XT_INDOMINUS" target="_blank">
