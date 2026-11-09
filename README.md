@@ -58,6 +58,7 @@ Convido você a acompanhar o desenvolvimento deste universo através das minhas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" alt="PHP" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" alt="Laravel" />&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="80" alt="MySql" />&nbsp;
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="45" alt="Postgresql" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" />&nbsp;
   <img src="https://avatars.githubusercontent.com/u/51960834?v=4" width="45" alt="Livewire" />&nbsp;
