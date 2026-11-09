@@ -1,13 +1,13 @@
 <div align="center">
   <img
-    src="./assets/miku.gif"
+    src="./assets/greenvalley.gif"
     alt="Banner"
     width="100%"
   />
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUycnZubGlyMWswbGZscXl2ZjQ5bWo3aWt5a3NjYmx3NWR6c3NkdWM1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DpBISBXeaCXDW2QGBN/200w.gif" width="120" height="120" style="border-radius: 50%;" alt="Profile Icon"/>
+  <img src="./assets/jackman.gif" width="120" height="120" style="border-radius: 50%;" alt="Profile Icon"/>
 </div>
 
 <br/>
