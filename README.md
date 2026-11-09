@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./assets/greenvalley.gif"
+    src="./assets/moinho.gif"
     alt="Banner"
     width="100%"
   />
