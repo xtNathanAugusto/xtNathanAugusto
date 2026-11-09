@@ -1,9 +1,8 @@
 <div align="center">
   <img
-    src="https://i.pinimg.com/originals/75/37/fc/7537fcc63babf246b2ad52936e53d356.gif"
-    alt="Header"
+    src="./assets/miku.gif"
+    alt="Banner"
     width="100%"
-    style="height: 180px; width: 100%; object-fit: cover;"
   />
 </div>
 
@@ -37,7 +36,7 @@ No campo do **Design Gráfico**, acumulo experiência profissional como jovem ap
 
 ---
 
-## Projeto Autoral: *Devant*
+## Projeto Autoral: _Devant_
 
 > _Devant_ é uma narrativa original que entrelaça ficção científica, fantasia e realismo filosófico, ambientada em um universo vivo, complexo e em constante expansão. A história explora temas como identidade, existência e o embate entre o orgânico e o sintético.
 
